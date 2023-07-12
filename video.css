@@ -1,0 +1,34 @@
+*{ 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 0;
+    margin: 0;
+}
+.hero-btn{
+    background: #f9004d;
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    transition: .4s; 
+    position: absolute;
+    bottom: 35px;
+}
+.hero-btn:hover{
+    background: transparent;
+    border: 2px solid #f9004d;
+    cursor: pointer;
+}
+h2 {
+    position: absolute;
+    bottom: 0;
+}
+video {
+    margin: 100px;
+    border: #f9004d;
+}
+h1{width: 550px;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
